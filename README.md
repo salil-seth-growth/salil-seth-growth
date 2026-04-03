@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!## Salil Seth · Product Growth Leader · Crypto / FinTech / Web3
+< Salil Seth · Product Growth Leader · Crypto / FinTech / Web3
 
 Product growth leader with 10+ years building compounding growth systems across 
 crypto exchanges, trading platforms, and FinTech ecosystems across APAC and globally.
