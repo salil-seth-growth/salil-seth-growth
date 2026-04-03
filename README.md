@@ -8,7 +8,8 @@ crypto exchanges, trading platforms, and FinTech ecosystems across APAC and glob
 I grow products by designing the systems underneath them — experimentation frameworks, 
 affiliate architectures, onboarding sequences, and retention mechanics that scale.
 
-**Currently:** Independent Web3 growth advisory — Centralized exchanges, stablecoin neobanking & crypto card startups 
+**Currently:** Independent Web3 growth advisory — Centralized exchanges, stablecoin neobanking & crypto card startups  
+
 **Open to:** Senior PM Growth · Senior PMM · Product Growth Lead  
 
 ---
