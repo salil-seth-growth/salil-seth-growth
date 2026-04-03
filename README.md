@@ -10,7 +10,7 @@ affiliate architectures, onboarding sequences, and retention mechanics that scal
 
 **Currently:** Independent Web3 growth advisory — Centralized exchanges, stablecoin neobanking & crypto card startups  
 
-**Open to:** Senior PM Growth · Senior PMM · Product Growth Lead  
+**Open to:**  PM Growth Lead/Director · Senior PM Growth  
 
 ---
 
