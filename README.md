@@ -45,11 +45,11 @@ people operate in 2026.
 
 ### 💼 Background
 
-**Binance** · Product Growth Lead — Derivatives, Earn & Loans, Copy Trading  
-**Boost E-Wallet** · Head of Growth & Loyalty  
-**All in Bits (Ignite/Tendermint)** · Head of User Growth  
-**Bitget/OKX** · Growth Advisor
-**B-Tech in IIT BHU Varanasi** · Graduated in 2015
+**Binance** · Product Growth Lead — Derivatives, Earn & Loans, Copy Trading.
+**Boost E-Wallet** · Head of Growth & Loyalty.
+**All in Bits (Ignite/Tendermint)** · Head of User Growth.
+**Bitget/OKX** · Growth Advisor.
+**B-Tech in IIT BHU Varanasi** · Graduated in 2015.
 
 ---
 
