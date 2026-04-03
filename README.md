@@ -45,17 +45,19 @@ people operate in 2026.
 
 ### 💼 Background
 
-**Binance** · Product Growth Lead — Derivatives, Earn & Loans, Copy Trading.
-**Boost E-Wallet** · Head of Growth & Loyalty.
-**All in Bits (Ignite/Tendermint)** · Head of User Growth.
-**Bitget/OKX** · Growth Advisor.
-**B-Tech in IIT BHU Varanasi** · Graduated in 2015.
+**Binance** · Product Growth Lead — Derivatives, Earn & Loans, Copy Trading.  
+**Boost E-Wallet** · Head of Growth & Loyalty.  
+**All in Bits (Ignite/Tendermint)** · Head of User Growth.  
+**Bitget/OKX** · Growth Advisor.  
+**B-Tech in IIT BHU Varanasi** · Graduated in 2015.  
 
 ---
 
 ### 🔗 Connect
 
 [LinkedIn](https://linkedin.com/in/salilseth03) · salil.sethcr07@gmail.com--
-**salil-seth-growth/salil-seth-growth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 
