@@ -29,7 +29,7 @@ affiliate architectures, onboarding sequences, and retention mechanics that scal
 ### 🔨 Current Projects I am working on
 
 | Project | What it is |
-|---|---|---|
+|---|---|
 | **Stablecoin Card Growth Audit** | Independent funnel audit of a Series A stablecoin Visa card platform (1M+ users) — 4 growth experiments across acquisition, activation, and retention, plus an affiliate program redesign and 90-day execution plan
 | **Crypto Card GTM Architecture** | Full go-to-market strategy for a Web3 neo-bank targeting SEA — growth loop design, 4-tier affiliate program, phase-gate framework for C-level
 
