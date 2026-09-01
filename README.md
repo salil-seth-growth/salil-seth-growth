@@ -37,7 +37,7 @@ affiliate architectures, onboarding sequences, and retention mechanics that scal
 
 ### 🧠 How I work
 
-I ship thinking fast. Both projects above were prototyped using Claude code & similar products as a 
+Both projects above were prototyped using Claude code & similar products as a 
 co-pilot — the strategy, frameworks, and product logic are mine; AI compresses 
 the time from idea to polished artifact. I think this is how strong product 
 people operate in 2026.
